@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: nginx:latest
+          image: zhangyang19980825/actions_build_springboot:latest
           ports:
             - containerPort: 80
